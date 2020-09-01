@@ -1,0 +1,1 @@
+PlutoSDRSupport.dll disabled, as it causes problems with other support libs - and SDRangel has native support anyway.
